@@ -1,0 +1,41 @@
+.card__container {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.card {
+    padding: 30px;
+}
+
+.card:nth-child(even) {
+    background-color: var(--card);
+}
+
+.card:nth-child(odd) {
+  background-color: var(--title);
+}
+
+.card img {
+  max-width: 64px;
+  height: 64px;
+}
+
+.card__title {
+  color: var(--white);
+  font-size: 28px;
+  font-family: var(--font-domine);
+  font-weight: 400;
+  line-height: 38.4px;
+  letter-spacing: 0.64px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.card__content {
+  color: var(--content);
+  font-size: 20px;
+  font-family: var(--font-raleway);
+  font-weight: 400;
+  line-height: 36px;
+}
