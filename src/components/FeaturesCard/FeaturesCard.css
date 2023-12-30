@@ -1,15 +1,15 @@
 .card__container {
-    display: flex;
-    flex-direction: row;
-    gap: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
 }
 
 .card {
-    padding: 30px;
+  padding: 30px;
 }
 
 .card:nth-child(even) {
-    background-color: var(--card);
+  background-color: var(--card);
 }
 
 .card:nth-child(odd) {

@@ -1,5 +1,6 @@
-import MenuCard from "../MenuCard/MenuCard";
 import "./Menu.css";
+
+import MenuCard from "../MenuCard/MenuCard";
 
 const Menu = () => {
   return (
