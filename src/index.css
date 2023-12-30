@@ -2,7 +2,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Alice&display=swap");
 
 :root {
   --font-domine: "Domine", serif;
@@ -11,11 +11,15 @@
 
   --white: #fff;
   --black: #000;
-  --content: #EEEEEE;
+  --content: #eeeeee;
   --color-link: rgba(34, 34, 34, 0.65);
 
-  --card: #B28864;
+  --card: #b28864;
 
   --title: #222222;
   --subtitle: #444444;
+}
+
+.bg-brown-gradient {
+  background: linear-gradient(302deg, #e2cfbe 0%, #e9dacc 43%, #caa883 100%);
 }

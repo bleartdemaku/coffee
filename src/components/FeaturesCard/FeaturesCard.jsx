@@ -16,4 +16,4 @@ function FeaturesCard() {
   );
 }
 
-export default FeaturesCard
+export default FeaturesCard;

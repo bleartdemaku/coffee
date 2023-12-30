@@ -1,4 +1,5 @@
 import "./App.css";
+import CoffeeC from "./components/CoffeeC/CoffeeC";
 import Features from "./components/Features/Features";
 import Header from "./components/Header/Header";
 import Navbar from "./components/Navbar/Navbar";
@@ -18,6 +19,7 @@ function App() {
         <Shop />
         <Features />
         <Quality />
+        <CoffeeC />
       </div>
     </>
   );
