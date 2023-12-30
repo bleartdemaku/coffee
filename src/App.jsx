@@ -2,6 +2,7 @@ import "./App.css";
 import Features from "./components/Features/Features";
 import Header from "./components/Header/Header";
 import Navbar from "./components/Navbar/Navbar";
+import Quality from "./components/Quality/Quality";
 import Shop from "./components/Shop/Shop";
 import Sponsor from "./components/Sponsor/Sponsor";
 
@@ -16,6 +17,7 @@ function App() {
         <Sponsor />
         <Shop />
         <Features />
+        <Quality />
       </div>
     </>
   );
