@@ -20,7 +20,7 @@ const CoffeeC = () => {
               adipiscing <br /> elit ut aliquam, purus sit amet
             </p>
           </div>
-          <div className="coffee__container-first">
+          <div className="coffee__container-first-box">
             <p className="coffee__container-first-box-title">Blend</p>
             <p className="coffee__container-first-box-subtitle">
               Lorem ipsum dolor sit amet, conse ctetur <br /> adipiscing elit ut
@@ -28,7 +28,7 @@ const CoffeeC = () => {
               adipiscing <br /> elit ut aliquam, purus sit amet
             </p>
           </div>
-          <div className="coffee__container-first">
+          <div className="coffee__container-first-box">
             <p className="coffee__container-first-box-title">Dark</p>
             <p className="coffee__container-first-box-subtitle">
               Lorem ipsum dolor sit amet, conse ctetur <br /> adipiscing elit ut

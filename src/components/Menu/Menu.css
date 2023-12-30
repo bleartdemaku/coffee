@@ -1,0 +1,16 @@
+.menu {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.menu__title {
+  display: flex;
+  justify-content: center;
+  color: var(--title);
+  font-size: 50px;
+  font-family: var(--font-domine);
+  font-weight: 400;
+  line-height: 63px;
+  letter-spacing: 0.8px;
+}

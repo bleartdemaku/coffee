@@ -21,17 +21,16 @@
 .coffee__container {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
-}
-
-.coffee__container img {
-  width: 459px;
-  height: 688px;
+  margin: 0 100px;
 }
 
 .coffee__container-first {
   display: flex;
   flex-direction: column;
+}
+
+.coffee__container-first-box {
+  margin-bottom: 30px;
 }
 
 .coffee__container-first-box-title {
@@ -43,9 +42,11 @@
   letter-spacing: 0.64px;
   display: flex;
   justify-content: flex-end;
+  margin-bottom: 10px;
 }
 
 .coffee__container-first-box-subtitle {
+  text-align: end;
   color: var(--subtitle);
   font-size: 20px;
   font-family: var(--font-raleway);
@@ -58,6 +59,10 @@
   flex-direction: column;
 }
 
+.coffee__container-second-box {
+  margin-bottom: 30px;
+}
+
 .coffee__container-second-box-title {
   color: var(--title);
   font-size: 28px;
@@ -65,6 +70,7 @@
   font-weight: 400;
   line-height: 38.4px;
   letter-spacing: 0.64px;
+  margin-bottom: 10px;
 }
 
 .coffee__container-second-box-subtitle {
