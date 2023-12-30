@@ -18,8 +18,14 @@
 
   --title: #222222;
   --subtitle: #444444;
+
+  --menu-card: #F4F0E4;
 }
 
 .bg-brown-gradient {
   background: linear-gradient(302deg, #e2cfbe 0%, #e9dacc 43%, #caa883 100%);
+}
+
+.shadow {
+  box-shadow: 21px 30px 38px -8px rgba(0, 0, 0, 0.45);
 }

@@ -13,4 +13,11 @@
   font-weight: 400;
   line-height: 63px;
   letter-spacing: 0.8px;
+  margin-bottom: 60px;
+}
+
+.menu__container {
+    display: flex;
+    flex-direction: row;
+    gap: 31px;
 }

@@ -1,13 +1,15 @@
-import MenuCard from '../MenuCard/MenuCard'
-import './Menu.css'
+import MenuCard from "../MenuCard/MenuCard";
+import "./Menu.css";
 
 const Menu = () => {
   return (
     <div className="menu">
       <p className="menu__title">Our Best Coffee</p>
-      <MenuCard />
+      <div className="menu__container">
+        <MenuCard />
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Menu
+export default Menu;
