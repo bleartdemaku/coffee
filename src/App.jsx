@@ -1,5 +1,6 @@
 import "./App.css";
 import CoffeeC from "./components/CoffeeC/CoffeeC";
+import Contact from "./components/Contact/Contact";
 import Features from "./components/Features/Features";
 import Header from "./components/Header/Header";
 import Menu from "./components/Menu/Menu";
@@ -22,6 +23,7 @@ function App() {
         <Quality />
         <CoffeeC />
         <Menu />
+        <Contact />
       </div>
     </>
   );
