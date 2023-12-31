@@ -3,27 +3,3 @@
   flex-direction: column;
   margin-top: 162px;
 }
-
-.testimonials__media {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-bottom: 50px;
-}
-
-.testimonials__media-title {
-  color: var(--title);
-  font-size: 50px;
-  font-family: var(--font-domine);
-  font-weight: 400;
-  line-height: 63px;
-  letter-spacing: 0.8px;
-}
-
-.testimonials__media-buttons button {
-    padding: 20px;
-}
-.testimonials__media-buttons button:last-child {
-    margin-left: 5px;
-    background-color: var(--title);
-}

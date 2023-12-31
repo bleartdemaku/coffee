@@ -12,7 +12,7 @@ const testimonialsContent = [
   },
   {
     id: 2,
-    title: "Coffee the best in the world",
+    title: "Coffee",
     subtitle: "Agorapulse has really changed our ability to follow up with customers and make sure we're being responsive and interacting with them when they want.",
     owner: "by Google Review",
     image: user,
@@ -21,7 +21,7 @@ const testimonialsContent = [
   },
   {
     id: 3,
-    title: "Coffee the best in the world",
+    title: "Coffee2",
     subtitle: "Agorapulse has really changed our ability to follow up with customers and make sure we're being responsive and interacting with them when they want.",
     owner: "by Google Review",
     image: user,
@@ -30,7 +30,7 @@ const testimonialsContent = [
   },
   {
     id: 4,
-    title: "Coffee the best in the world",
+    title: "Coffee3",
     subtitle: "Agorapulse has really changed our ability to follow up with customers and make sure we're being responsive and interacting with them when they want.",
     owner: "by Google Review",
     image: user,
@@ -39,7 +39,7 @@ const testimonialsContent = [
   },
   {
     id: 5,
-    title: "Coffee the best in the world",
+    title: "Coffee4",
     subtitle: "Agorapulse has really changed our ability to follow up with customers and make sure we're being responsive and interacting with them when they want.",
     owner: "by Google Review",
     image: user,
@@ -48,7 +48,7 @@ const testimonialsContent = [
   },
   {
     id: 6,
-    title: "Coffee the best in the world",
+    title: "Coffee5",
     subtitle: "Agorapulse has really changed our ability to follow up with customers and make sure we're being responsive and interacting with them when they want.",
     owner: "by Google Review",
     image: user,
