@@ -8,6 +8,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Quality from "./components/Quality/Quality";
 import Shop from "./components/Shop/Shop";
 import Sponsor from "./components/Sponsor/Sponsor";
+import Testimonials from "./components/Testimonials/Testimonials";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <CoffeeC />
         <Menu />
         <Contact />
+        <Testimonials />
       </div>
     </>
   );

@@ -4,10 +4,13 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Alice&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap");
+
 :root {
   --font-domine: "Domine", serif;
   --font-raleway: "Raleway", sans-serif;
   --font-alice: "Alice", serif;
+  --font-nanum: "Nanum Gothic", sans-serif;
 
   --white: #fff;
   --black: #000;
@@ -19,7 +22,7 @@
   --title: #222222;
   --subtitle: #444444;
 
-  --menu-card: #F4F0E4;
+  --menu-card: #f4f0e4;
 }
 
 .bg-brown-gradient {

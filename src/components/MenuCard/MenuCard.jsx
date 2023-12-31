@@ -16,7 +16,7 @@ const MenuCard = () => {
       <Swiper
         loop={true}
         grabCursor={true}
-        spaceBetween={31}
+        spaceBetween={30}
         pagination={{
           clickable: true,
         }}
