@@ -4,7 +4,7 @@
     align-items: center;
     margin-top: 75.75px;
     margin-bottom: 150px;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .sponsor img {
@@ -13,6 +13,6 @@
     margin: 100px 0px;
 }
 
-/* .sponsor img:nth-child(n + 1):nth-child(-n + 5) {
+.sponsor img:nth-child(n + 1):nth-child(-n + 5) {
     margin-right: 150px;
-} */
+}

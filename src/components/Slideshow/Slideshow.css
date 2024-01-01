@@ -1,6 +1,6 @@
 .slideshow-container {
   position: relative;
-  margin: auto;
+  padding: 0 100px;
 }
 
 .slides {

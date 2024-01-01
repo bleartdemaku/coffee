@@ -16,12 +16,13 @@
   align-items: center;
   text-align: center;
   margin-bottom: 63.5px;
+  margin-top: 69px;
 }
 
 .coffee__container {
   display: flex;
   flex-direction: row;
-  margin: 0 100px;
+  justify-content: center;
 }
 
 .coffee__container-first {
