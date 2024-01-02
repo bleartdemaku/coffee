@@ -1,13 +1,8 @@
 .menu__card {
   display: flex;
   flex-direction: column;
-  /* background-color: var(--menu-card); */
   background: linear-gradient(to bottom , var(--white) 50%, var(--menu-card) 50%);
 }
-
-/* .menu__card-container {
-    background-color: aqua;
-} */
 
 .menu__card-img {
   display: flex;

@@ -15,12 +15,11 @@ import Testimonials from "./components/Testimonials/Testimonials";
 function App() {
   return (
     <>
-      {/* <div className="App"> */}
       <div className="container">
-        <Navbar />
+        {/* <Navbar /> */}
         <Header />
       </div>
-      <Sponsor />
+      {/* <Sponsor />
       <Shop />
       <Features />
       <Quality />
@@ -28,9 +27,8 @@ function App() {
       <Menu />
       <Contact />
       <Testimonials />
-      {/* </div> */}
       <Posts />
-      <Footer />
+      <Footer /> */}
     </>
   );
 }

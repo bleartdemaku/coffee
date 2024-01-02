@@ -4,11 +4,8 @@
   scroll-behavior: smooth;
 }
 
-.App {
-  margin: 0px 163px;
-}
-
 .container {
   background-image: url("./assets/backgound.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
 }
