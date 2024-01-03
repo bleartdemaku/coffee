@@ -20,8 +20,8 @@ function App() {
         <Header />
       </div>
       <Sponsor />
-      {/* 
       <Shop />
+      {/* 
       <Features />
       <Quality />
       <CoffeeC />
