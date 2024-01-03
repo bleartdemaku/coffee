@@ -19,7 +19,8 @@ function App() {
         {/* <Navbar /> */}
         <Header />
       </div>
-      {/* <Sponsor />
+      <Sponsor />
+      {/* 
       <Shop />
       <Features />
       <Quality />
@@ -28,7 +29,8 @@ function App() {
       <Contact />
       <Testimonials />
       <Posts />
-      <Footer /> */}
+      <Footer /> 
+    */}
     </>
   );
 }
