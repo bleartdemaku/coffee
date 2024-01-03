@@ -13,3 +13,26 @@
   line-height: 49.76px;
   margin-bottom: 38px;
 }
+
+@media only screen and (min-width: 1400px) and (max-width: 1720px) {
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1399px) {
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .features {
+    align-items: center;
+    padding: 0 50px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .features {
+    align-items: center;
+    padding: 0 50px;
+  }
+}

@@ -21,8 +21,8 @@ function App() {
       </div>
       <Sponsor />
       <Shop />
-      {/* 
       <Features />
+      {/* 
       <Quality />
       <CoffeeC />
       <Menu />
