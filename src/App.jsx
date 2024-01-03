@@ -22,8 +22,8 @@ function App() {
       <Sponsor />
       <Shop />
       <Features />
-      {/* 
       <Quality />
+      {/* 
       <CoffeeC />
       <Menu />
       <Contact />
