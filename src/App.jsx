@@ -23,8 +23,8 @@ function App() {
       <Shop />
       <Features />
       <Quality />
-      {/* 
       <CoffeeC />
+      {/* 
       <Menu />
       <Contact />
       <Testimonials />
