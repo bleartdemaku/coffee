@@ -24,14 +24,14 @@
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .testimonials {
-    margin-top: 600px;
+    margin-top: 500px;
     padding: 0 100px;
   }
 }
 
 @media only screen and (max-width: 575px) {
   .testimonials {
-    margin-top: 650px;
+    margin-top: 500px;
     padding: 0 70px;
   }
 }
