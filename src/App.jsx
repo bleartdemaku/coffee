@@ -24,8 +24,8 @@ function App() {
       <Features />
       <Quality />
       <CoffeeC />
-      {/* 
       <Menu />
+      {/* 
       <Contact />
       <Testimonials />
       <Posts />

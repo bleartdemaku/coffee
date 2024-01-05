@@ -22,9 +22,17 @@ const MenuCard = () => {
         }}
         breakpoints={{
           576: {
-            slidesPerView: 2,
+            slidesPerView: 1,
           },
           768: {
+            slidesPerView: 1,
+            spaceBetween: 48,
+          },
+          992: {
+            slidesPerView: 2,
+            spaceBetween: 48,
+          },
+          1400: {
             slidesPerView: 4,
             spaceBetween: 48,
           },
@@ -47,12 +55,12 @@ const MenuCard = () => {
               <p>{item.price}</p>
             </div>
             <div className="menu__card-subtitle">{item.subtitle}</div>
-            {/* <div className="menu__card-button"> */}
-            <button>
-              <img src={whiteCart} alt="" />
-              ADD TO CART
-            </button>
-            {/* </div> */}
+            <div className="menu__card-button">
+              <button>
+                <img src={whiteCart} alt="" />
+                ADD TO CART
+              </button>
+            </div>
             {/* </div> */}
           </SwiperSlide>
         ))}
