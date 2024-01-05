@@ -53,11 +53,19 @@ const TestimonialCard = () => {
           spaceBetween={31}
           breakpoints={{
             576: {
-              slidesPerView: 2,
+              slidesPerView: 1,
             },
             768: {
-              slidesPerView: 3,
-              spaceBetween: 48,
+              slidesPerView: 1,
+              spaceBetween: 30,
+            },
+            992: {
+              slidesPerView: 2,
+              spaceBetween: 30,
+            },
+            1400: {
+              slidesPerView: 2,
+              spaceBetween: 30,
             },
           }}
         >

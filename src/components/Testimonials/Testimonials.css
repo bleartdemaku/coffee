@@ -4,3 +4,34 @@
   margin-top: 162px;
   padding: 0 163px;
 }
+
+@media only screen and (min-width: 1400px) and (max-width: 1720px) {
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1399px) {
+  .testimonials {
+    margin-top: 600px;
+    padding: 0 100px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .testimonials {
+    margin-top: 600px;
+    padding: 0 50px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .testimonials {
+    margin-top: 600px;
+    padding: 0 100px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .testimonials {
+    margin-top: 650px;
+    padding: 0 70px;
+  }
+}
