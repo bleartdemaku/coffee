@@ -5,7 +5,7 @@ import coffee2 from '../../assets/coffee2.jpg';
 
 const Header = () => {
   return (
-    <div className="header">
+    <div className="header" id="home">
       <div className="header__container">
         <div className="header__container-title">
           We Delivery The <br /> Best Coffee Bean To <br /> Your Home

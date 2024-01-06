@@ -215,7 +215,7 @@
     flex-direction: column;
     height: 100vh;
     justify-content: center;
-    padding: 0 0;
+    padding: 20px 20px;
   }
 
   .header__container {
@@ -224,7 +224,7 @@
   }
 
   .header__container-title {
-    font-size: 35px;
+    font-size: 28px;
   }
 
   .header__container-subtitle {
@@ -254,13 +254,13 @@
   }
 
   .img1 {
-    top: 10%;
+    top: 4%;
     right: 0%;
     height: 300px;
   }
 
   .img2 {
-    top: 10%;
+    top: 4%;
     right: 0%;
     height: 300px;
   }

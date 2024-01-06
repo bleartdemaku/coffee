@@ -16,11 +16,10 @@ function App() {
   return (
     <>
       <div className="container">
-        {/* <Navbar /> */}
+        <Navbar />
         <Header />
       </div>
       <Sponsor />
-      <Posts />
       <Shop />
       <Features />
       <Quality />
@@ -28,7 +27,8 @@ function App() {
       <Menu />
       <Contact />
       <Testimonials />
-      <Footer />
+      <Posts />
+      <Footer /> 
     </>
   );
 }

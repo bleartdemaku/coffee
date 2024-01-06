@@ -6,7 +6,7 @@ import signature from "../../assets/signature.png";
 
 const Shop = () => {
   return (
-    <div className="shop">
+    <div className="shop" id="about">
       <div className="shop__photos">
         <img src={coffee1} alt="" />
         <img src={coffee2} alt="" />

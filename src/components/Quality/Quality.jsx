@@ -5,7 +5,7 @@ import square from "../../assets/square.png";
 
 const Quality = () => {
   return (
-    <div className="quality">
+    <div className="quality" id="shop">
       <div className="quality__media">
         <p className="quality__media-title">
           Quality Coffee <br /> Cultivated by Good

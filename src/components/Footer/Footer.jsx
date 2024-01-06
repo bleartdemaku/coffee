@@ -7,7 +7,7 @@ import twlogo from "../../assets/twlogo.png";
 
 const Footer = () => {
   return (
-    <div className="footer__end bg-brown-gradient">
+    <div className="footer__end bg-brown-gradient" id="contact">
       <div className="footer">
         <div className="footer__media">
           <div className="footer__media-logo">
