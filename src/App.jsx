@@ -27,8 +27,8 @@ function App() {
       <Menu />
       <Contact />
       <Testimonials />
-      {/* 
       <Posts />
+      {/* 
       <Footer /> 
     */}
     </>

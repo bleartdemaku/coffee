@@ -66,3 +66,158 @@
   text-align: center;
   margin-top: 15px;
 }
+
+@media only screen and (min-width: 1400px) and (max-width: 1720px) {
+  .posts {
+    margin-top: 100px;
+  }
+
+  .posts__title {
+    margin-bottom: 30px;
+    font-size: 46px;
+  }
+
+  .posts__container {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0 50px;
+  }
+
+  .posts__photos {
+    padding: 10px 10px;
+  }
+
+  .posts__photos img {
+    height: 309px;
+    width: 295px;
+  }
+
+  .posts__photos-content img {
+    height: 64px;
+    width: 64px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1399px) {
+  .posts {
+    margin-top: 80px;
+  }
+
+  .posts__title {
+    margin-bottom: 20px;
+    font-size: 40px;
+  }
+
+  .posts__container {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 0px;
+  }
+
+  .posts__photos {
+    padding: 10px 10px;
+  }
+
+  .posts__photos img {
+    height: 279px;
+    width: 265px;
+  }
+
+  .posts__photos-content img {
+    height: 64px;
+    width: 64px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .posts {
+    margin-top: 50px;
+  }
+
+  .posts__title {
+    margin-bottom: 10px;
+    font-size: 32px;
+  }
+
+  .posts__container {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 0px;
+  }
+
+  .posts__photos {
+    padding: 10px 10px;
+  }
+
+  .posts__photos img {
+    height: 259px;
+    width: 245px;
+  }
+
+  .posts__photos-content img {
+    height: 64px;
+    width: 64px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .posts {
+    margin-top: 50px;
+  }
+
+  .posts__title {
+    margin-bottom: 0px;
+    font-size: 28px;
+  }
+
+  .posts__container {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 0px;
+  }
+
+  .posts__photos {
+    padding: 10px 10px;
+  }
+
+  .posts__photos img {
+    height: 239px;
+    width: 235px;
+  }
+
+  .posts__photos-content img {
+    height: 64px;
+    width: 64px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .posts {
+    margin-top: 50px;
+  }
+
+  .posts__title {
+    margin-bottom: 0px;
+    font-size: 28px;
+  }
+
+  .posts__container {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 0px;
+  }
+
+  .posts__photos {
+    padding: 10px 10px;
+  }
+
+  .posts__photos img {
+    height: 159px;
+    width: 155px;
+  }
+
+  .posts__photos-content img {
+    height: 64px;
+    width: 64px;
+  }
+}
