@@ -28,9 +28,7 @@ function App() {
       <Contact />
       <Testimonials />
       <Posts />
-      {/* 
-      <Footer /> 
-    */}
+      <Footer />
     </>
   );
 }
