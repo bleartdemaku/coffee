@@ -20,6 +20,7 @@ function App() {
         <Header />
       </div>
       <Sponsor />
+      <Posts />
       <Shop />
       <Features />
       <Quality />
@@ -27,7 +28,6 @@ function App() {
       <Menu />
       <Contact />
       <Testimonials />
-      <Posts />
       <Footer />
     </>
   );
